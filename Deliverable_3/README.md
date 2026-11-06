@@ -29,7 +29,8 @@ python -m streamlit run app.py
 ```
 
 ## Published dashboard
-**Streamlit application URL: ADD LIVE URL AFTER DEPLOYMENT**
+**Streamlit application URL: https://advanced-programming-311-app-project-9yckcubyk2srapxtihqy4r.streamlit.app/
+
 
 ## GitHub repository
 **Public repository URL: ADD URL AFTER UPLOAD**
